@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I am currently learning Adonis JS, Next JS, and become a fullstack developer.
+- 🌱 I am currently learning Adonis JS, Laravel, and become a fullstack developer.
 - 👯 I’m looking to collaborate on Frontend Web Developer
 - 📫 How to reach me: mluthfiamrullah@gmail.com
 - ⚡ Fun fact: Web developer by day, code wrangler by night. I make websites that even your grandma can navigate. And yes, I'm still single 🤣.
